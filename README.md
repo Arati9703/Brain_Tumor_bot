@@ -27,9 +27,13 @@ The final CNN model is integrated into a Gradio interface that allows users to u
 
 🔧 How to Run Locally:
 bash
+
 git clone https://github.com/Arati9703/Brain_Tumor_bot.git
+
 cd Brain_Tumor_bot
+
 pip install -r requirements.txt
+
 python app/app.py
 
 📷 UI Preview
